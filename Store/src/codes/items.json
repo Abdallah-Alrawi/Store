@@ -1,0 +1,23 @@
+[
+{
+    "id":1,
+    "name":"Case",
+    "price":1000,
+    "imgUrl":"/public/Case.png"
+},
+{
+    "id":2,
+    "name":"Mouse",
+    "price":100,
+    "imgUrl":"/public/Mouse.jpg"
+},
+{
+    "id":3,
+    "name":"Desk",
+    "price":70,
+    "imgUrl":"/public/Desk.jpg"
+}
+
+
+
+]
