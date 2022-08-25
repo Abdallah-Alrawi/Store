@@ -17,7 +17,8 @@ function App() {
  <Route path="/about" element={<About />} />
  </Routes>
  </Container>
- 
+  
+  
  </ShopProvider>
  )
 }
