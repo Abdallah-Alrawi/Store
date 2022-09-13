@@ -3,19 +3,19 @@
     "id":1,
     "name":"Case",
     "price":1000,
-    "imgUrl":"https://upload.wikimedia.org/wikipedia/commons/2/20/Avant-Tower-Gaming-PC.png"
+    "imgUrl":"../Case.png"
 },
 {
     "id":2,
     "name":"Mouse",
     "price":100,
-    "imgUrl":"https://es.thermaltake.com/media/catalog/product/cache/023a745bb14092c479b288481f91a1bd/l/2/l20m01.jpg"
+    "imgUrl":"../public/mouse.png"
 },
 {
     "id":3,
     "name":"Desk",
     "price":70,
-    "imgUrl":"https://www.tradeinn.com/f/13863/138636107/thunderx3-ed5-gaming-desk.jpg"
+    "imgUrl":"../public/desk.png"
 }
 
 
