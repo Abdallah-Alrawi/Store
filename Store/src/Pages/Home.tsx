@@ -4,7 +4,7 @@ export function Home(){
     return (
        
         <>
-       
+     
         <div className="d-flex align-items-center justify-content-center text-light">
         <h1>Welcome to The store where you will meet all your tech needs</h1>
         </div>
