@@ -9,13 +9,13 @@
     "id":2,
     "name":"Mouse",
     "price":100,
-    "imgUrl":"../public/mouse.png"
+    "imgUrl":"../mouse.png"
 },
 {
     "id":3,
     "name":"Desk",
     "price":70,
-    "imgUrl":"../public/desk.png"
+    "imgUrl":"../desk.png"
 }
 
 
